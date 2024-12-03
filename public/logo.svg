@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 612 612">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Orange_Yellow);
+      }
+
+      .st1 {
+        fill: url(#Orange_Yellow1);
+      }
+
+      .st2 {
+        fill: url(#Orange_Yellow5);
+      }
+
+      .st3 {
+        fill: url(#Orange_Yellow4);
+      }
+
+      .st4 {
+        fill: url(#Orange_Yellow3);
+      }
+
+      .st5 {
+        fill: url(#Orange_Yellow2);
+      }
+
+      .st6 {
+        fill: url(#Orange_Yellow7);
+      }
+
+      .st7 {
+        fill: url(#Orange_Yellow8);
+      }
+
+      .st8 {
+        fill: url(#Orange_Yellow9);
+      }
+
+      .st9 {
+        fill: url(#Orange_Yellow6);
+      }
+
+      .st10 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 48.56px;
+      }
+
+      .st10, .st11 {
+        fill: #fff;
+      }
+
+      .st11 {
+        font-family: Arial-Black, 'Arial Black';
+        font-size: 21px;
+        font-weight: 800;
+      }
+
+      .st12 {
+        fill: url(#Orange_Yellow10);
+      }
+
+      .st13 {
+        fill: url(#Orange_Yellow12);
+      }
+
+      .st14 {
+        fill: url(#Orange_Yellow11);
+      }
+    </style>
+    <linearGradient id="Orange_Yellow" data-name="Orange, Yellow" x1="244.98" y1="264.24" x2="377.87" y2="264.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff33b"/>
+      <stop offset=".04" stop-color="#fee62d"/>
+      <stop offset=".12" stop-color="#fdd51b"/>
+      <stop offset=".2" stop-color="#fdca0f"/>
+      <stop offset=".28" stop-color="#fdc70c"/>
+      <stop offset=".67" stop-color="#f3903f"/>
+      <stop offset=".89" stop-color="#ed683c"/>
+      <stop offset="1" stop-color="#e93e3a"/>
+    </linearGradient>
+    <linearGradient id="Orange_Yellow1" data-name="Orange, Yellow" x1="177.89" y1="246.35" x2="234.46" y2="246.35" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow2" data-name="Orange, Yellow" x1="381.49" y1="246.12" x2="437.98" y2="246.12" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow3" data-name="Orange, Yellow" x1="386.08" y1="227.24" x2="468.43" y2="227.24" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow4" data-name="Orange, Yellow" x1="376.15" y1="261.01" x2="469.14" y2="261.01" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow5" data-name="Orange, Yellow" x1="384.3" y1="290.63" x2="467.96" y2="290.63" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow6" data-name="Orange, Yellow" x1="147.53" y1="290.47" x2="235.19" y2="290.47" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow7" data-name="Orange, Yellow" x1="121.77" y1="260.56" x2="235.19" y2="260.56" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow8" data-name="Orange, Yellow" x1="148.27" y1="227.32" x2="234.46" y2="227.32" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow9" data-name="Orange, Yellow" x1="178.33" y1="343.64" x2="437.31" y2="343.64" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow10" data-name="Orange, Yellow" x1="178.33" y1="176.01" x2="437.31" y2="176.01" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow11" data-name="Orange, Yellow" x1="145.09" y1="463.13" x2="165.34" y2="463.13" xlink:href="#Orange_Yellow"/>
+    <linearGradient id="Orange_Yellow12" data-name="Orange, Yellow" x1="450.68" y1="462.81" x2="471.56" y2="462.81" xlink:href="#Orange_Yellow"/>
+  </defs>
+  <path class="st0" d="M356.18,186.55l-3.81-2.06c-.91-.5-7.91-3.59-8.89-3.97-2.42-.95-4.4-1.63-6.79-1.63h-91.7s0,0,0,0v170.69s0,0,0,0h89.36c1.27,0,3.44-.58,4.68-.86l4.47-1.05c4.62-1.06,9.21-3.8,15.95-8.08,0,0,0,0,0,0l6.7-6.84c7.98-7.62,11.6-22.43,11.69-26.21,0-.23,0-.46.04-.68l-.14-7.85c-.01-.55-.03-1.09-.05-1.62-.26-7.33-3.5-19.35-7.6-23-.35-.31-4.94-6.26-5.22-6.63,0,0,0,0,0,0l-5.17-4.31s0,0,0,0c3.69-3.66,8.59-8.06,9.51-9.93l1.25-2.07s0,0,0,0c1.17-1.63.69-.76,2.28-4.41.5-1.14.81-1.02,1.38-2.55s2.42-7.35,2.55-8.93c0,0,0,0,0,0l.04-15.52c0-1.02-2.62-15.78-10.14-23.44l-7.22-6.5c-.09-.07-3.06-2.48-3.16-2.53ZM346.45,296.56v3.9c0,11.61-9.55,19.92-21.16,19.92l-52.25.06s0,0,0,0l-.37-111.23s0,0,0,0h53.5c11.21,0,19.58,8.7,19.58,19.9h0c0,10.75-8,19.85-18.76,19.85h-45.56s0,0,0,0l.12,28.28c0,1.03.84,1.86,1.87,1.85l45.39.36c9.82,0,17.66,7.29,17.66,17.11Z"/>
+  <rect class="st1" x="177.89" y="242.28" width="56.57" height="8.14"/>
+  <path class="st5" d="M437.33,249.52s0,0,.01-.01c.09-.17.19-.34.3-.5.09-.26.2-.52.33-.76v-6.56h-52.52c.23,1.75-.35,3.63-1.73,4.75-.19.77-.57,1.48-1.09,2.08-.27.6-.65,1.15-1.15,1.6v.47h53.06c.53-.32,1.15-.54,1.87-.63.28-.16.58-.31.91-.41,0,0,0,0,.01,0Z"/>
+  <path class="st4" d="M456.22,215.02c-5.65,0-10.39,3.84-11.78,9.04h-58.36v9.03h59.42c2.07,3.79,6.1,6.36,10.72,6.36s8.64-2.57,10.72-6.36h.22c.16-.62.43-1.21.8-1.73v-.78c.3-1.07.48-2.19.48-3.35h0c0-6.75-5.47-12.22-12.22-12.22ZM455.47,232.7c-2.84,0-5.13-2.3-5.13-5.13s2.3-5.13,5.13-5.13,5.13,2.3,5.13,5.13-2.3,5.13-5.13,5.13Z"/>
+  <path class="st3" d="M469.14,259.9h-.06c-.56-6.39-5.92-11.4-12.46-11.4h0c-4.14,0-7.8,2.02-10.08,5.11-.12,1.35-.72,2.64-1.79,3.48-.29.9-.5,1.83-.59,2.8h-66.77c-.28.15-.58.26-.9.36-.11.14-.22.27-.34.4v3.92c.22.46.34.95.42,1.46.21.3.38.64.52.98.13.16.25.33.36.51.38.33.71.71.96,1.14.16.15.3.3.43.47h68.27c2.29,2.68,5.7,4.39,9.51,4.39h0c3.81,0,7.21-1.71,9.51-4.39h.03s0-.01-.01-.02c1.86-2.18,2.99-5.01,2.99-8.1h0c0-.33-.02-.66-.05-.98.02,0,.03,0,.05,0v-.12ZM456.05,266.42c-2.87,0-5.2-2.33-5.2-5.2s2.33-5.2,5.2-5.2,5.2,2.33,5.2,5.2-2.33,5.2-5.2,5.2Z"/>
+  <path class="st2" d="M467.96,289.49s0,0-.01,0c-.11-6.44-5.36-11.63-11.82-11.63h-.91c-2.26,0-4.36.64-6.15,1.74h-64.76v1.44c.38.51.64,1.1.8,1.73.57,1.17,1.01,2.38,1.35,3.64.46.83.67,1.79.66,2.75.42.08.81.2,1.16.36h55.12c0,.06,0,.11,0,.17v1.89c0,6.54,5.3,11.83,11.83,11.83h.91c6.54,0,11.83-5.3,11.83-11.83v-1.89c0-.06,0-.12,0-.17h0v-.02ZM454.35,296.77c-3.3,0-5.98-2.68-5.98-5.98s2.68-5.98,5.98-5.98,5.98,2.68,5.98,5.98-2.68,5.98-5.98,5.98Z"/>
+  <path class="st9" d="M164.63,279.75c-1.57-.76-3.32-1.2-5.18-1.2h0c-6.58,0-11.92,5.34-11.92,11.92s5.34,11.92,11.92,11.92h0c6.58,0,11.92-5.34,11.92-11.92h63.82v-10.72h-70.56ZM159.53,296.37c-2.89,0-5.23-2.34-5.23-5.23s2.34-5.23,5.23-5.23,5.23,2.34,5.23,5.23-2.34,5.23-5.23,5.23Z"/>
+  <path class="st6" d="M170.48,260.02c-.05-6.62-5.43-11.97-12.06-11.97h0c-6.66,0-12.07,5.4-12.07,12.07v.89c0,6.66,5.4,12.07,12.07,12.07h0c3.7,0,7.01-1.67,9.22-4.29h67.55v-8.76h-64.71ZM158.2,266.34c-3.26,0-5.91-2.64-5.91-5.91s2.64-5.91,5.91-5.91,5.91,2.64,5.91,5.91-2.64,5.91-5.91,5.91Z"/>
+  <path class="st7" d="M172.82,224.51c-1.28-5.51-6.21-9.62-12.11-9.62h0c-6.87,0-12.44,5.57-12.44,12.44s5.57,12.44,12.44,12.44h0c4.86,0,9.06-2.8,11.11-6.86h62.64v-8.39h-61.64ZM159.78,233.41c-3.03,0-5.49-2.46-5.49-5.49s2.46-5.49,5.49-5.49,5.49,2.46,5.49,5.49-2.46,5.49-5.49,5.49Z"/>
+  <path class="st8" d="M417.31,298.14c-15.55,44.56-59.13,76.64-110.45,76.64s-94.9-32.08-110.45-76.64h-12.83c15.79,52.6,65.43,91,124.24,91s108.46-38.4,124.24-91h-14.75Z"/>
+  <path class="st12" d="M306.86,149.4c47.6,0,88.53,27.6,106.63,67.15h15.14c-18.74-47.43-65.76-81.07-120.8-81.07s-102.06,33.64-120.8,81.07h13.21c18.09-39.55,59.02-67.15,106.63-67.15Z"/>
+  <text class="st10" transform="translate(136.07 442.04) scale(1.32 1)"><tspan x="0" y="0">BADR NEJAA</tspan></text>
+  <text class="st11" transform="translate(172.67 468.52) scale(1.03 1)"><tspan x="0" y="0">SOFTWARE ENGINEER</tspan></text>
+  <rect class="st14" x="145.09" y="460.44" width="20.25" height="5.38"/>
+  <rect class="st13" x="450.68" y="459.81" width="20.88" height="6.01"/>
+</svg>
